@@ -1,4 +1,4 @@
-# Skill Card — lov-cli2anything
+# 接口工坊 · API Studio · Skill Card
 
 This card mirrors `skill-card.yaml` and records the currently verified local
 release state.
@@ -83,5 +83,9 @@ scope boundary, and the conditions for reconsidering access or pricing.
 
 ### Distribution
 
-The Skill is locally installed and verified. GitHub, LovStudio catalog,
-WorkBuddy, and SkillPay publication have not been performed.
+Free channels: `github`, `lovstudio`. No paid channel.
+
+| Channel | State |
+| --- | --- |
+| github | public source `lovstudio/cli2anything-skill` |
+| lovstudio | pending (2026-11-19): catalog entry update to 0.7.1 not yet merged; detail page version and isolated install unverified |

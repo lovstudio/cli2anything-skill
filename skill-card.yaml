@@ -1,5 +1,5 @@
 schema: lovstudio/skill-card/v1
-version: "0.7.0"
+version: "0.7.1"
 description: "Turns authorized observed API evidence into a validated OpenAPI contract, API graph, JavaScript SDK, Swagger UI, or task-focused local CLI."
 owner:
   team: "LovStudio"
@@ -79,11 +79,13 @@ pricing:
   model: free
   currency: CNY
   list_price_cny: 0
-  basis: "The current Skill is an internal local interface to an early open-source project runtime."
+  basis: "Free entry while the Skill builds outside usage evidence; four built-in target adapters (ZenMux, dshfind, self-hosted Plane, suanli.cn) are covered by 33 regression tests."
   boundary: "Includes local offline generation and validation; target adapter development, account access, publishing, and hosted operation are excluded."
-  review_trigger: "Review when more target adapters, hosted execution, or supported commercial distribution are added."
+  review_trigger: "Review after 10 external real uses, a credentialed live verification of any target, hosted execution, or a material support-cost change."
   confidence: internal
 distribution:
   paid: []
   free:
-    - "local-installed-and-verified"
+    - github
+    - lovstudio
+  lovstudio_state: "pending (2026-11-19): catalog entry update to 0.7.1 not yet merged; detail page version and isolated install unverified"

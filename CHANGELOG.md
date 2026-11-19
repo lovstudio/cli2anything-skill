@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.7.1
+
+- Synced `pricing-card.yaml` to the Skill version and refreshed its basis and review trigger for four built-in targets.
+- Recorded the GitHub and LovStudio distribution state in the Skill Card.
+
 ## 0.7.0
 
 - Added a `suanli.cn` (共绩算力) target adapter: 81 Open API operations from the vendor's public Apifox share plus the 2 documented operations of its OpenAI-compatible LLM service.
